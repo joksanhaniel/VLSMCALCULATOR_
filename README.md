@@ -1,0 +1,2 @@
+# VLSMCALCULATOR_
+ESTA ES UNA CALCULADORA VLSM CREADA COMO PROYECTO FINAL DE CLASE: MI EQUIPO DE TRABAJO SON: Edwin Quintero, Victor Amaya, Laura Lopez, Kelly Maradiaga, Carlos Amaya y Joksan Perez
